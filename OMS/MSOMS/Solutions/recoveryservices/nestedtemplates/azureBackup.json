@@ -15,7 +15,8 @@
             "allowedValues": [
                 "westeurope",
                 "eastus",
-                "southeastasia"
+                "southeastasia",
+                "australiasoutheast"
             ],
             "metadata": {
                 "description": "Specify the Azure Region for your new or existing OMS workspace"
